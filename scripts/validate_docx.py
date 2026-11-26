@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""docx 兼容性验证器（chengwen skill）
+"""docx 兼容性验证器（mo skill）
 
 检查四类"本机能过、Word/WPS 拒开"的已知坑（2026-11-26 实测事故沉淀）：
 1. zip 完整性 + 全部 XML 部件良构

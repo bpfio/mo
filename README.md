@@ -1,4 +1,4 @@
-# 成文 chengwen
+# 墨 mo
 
 > 公文格式报告撰写与 docx / Markdown 双轨发布 skill（面向 ZCode / Claude 类编码 Agent）
 
@@ -22,10 +22,10 @@
 ## 安装
 
 ```bash
-git clone https://github.com/YKaiXu/chengwen.git ~/.agents/skills/chengwen
+git clone https://github.com/bpfio/mo.git ~/.agents/skills/mo
 ```
 
-ZCode 自动发现 `~/.agents/skills/` 下的技能；其他 Agent 工具放入对应 skills 目录即可。触发词：形成报告 / 写报告 / 出报告 / 审查报告 / 发我邮箱，或显式调用 `/chengwen <题目>`。
+ZCode 自动发现 `~/.agents/skills/` 下的技能；其他 Agent 工具放入对应 skills 目录即可。触发词：形成报告 / 写报告 / 出报告 / 审查报告 / 发我邮箱，或显式调用 `/mo <题目>`。
 
 ## 配套校验器
 
